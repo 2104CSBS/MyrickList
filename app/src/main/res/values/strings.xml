@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Leader Board</string>
+    <string name="appwidget_text">Leader Board</string>
+    <string name="add_widget">Add widget</string>
+</resources>
